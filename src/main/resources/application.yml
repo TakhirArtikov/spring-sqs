@@ -6,7 +6,7 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIA4FQ7YZQKUP6TJ5OB
-      secret-key: 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
+      access-key: 
+      secret-key: 
     end-point:
       uri: https://sqs.ap-northeast-1.amazonaws.com/836511517717/taskstatesqs
